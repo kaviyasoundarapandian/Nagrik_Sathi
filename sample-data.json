@@ -1,0 +1,16 @@
+{
+  "profile": { "name": "Sample Citizen", "language": "ta", "district": "Dindigul" },
+  "emergencyContacts": [
+    { "name": "Family 1", "phone": "9000000001" },
+    { "name": "Family 2", "phone": "9000000002" }
+  ],
+  "weatherSample": {
+    "daily": {
+      "time": ["2026-10-18", "2026-10-19", "2026-10-20"],
+      "precipitation_sum": [2.0, 85.0, 10.0],
+      "wind_gusts_10m_max": [25, 60, 30],
+      "temperature_2m_max": [31, 29, 32],
+      "weather_code": [3, 65, 61]
+    }
+  }
+}
